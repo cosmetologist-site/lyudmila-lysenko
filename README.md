@@ -14,4 +14,4 @@
 - `img/lyudmila.jpg` — фото врача
 - `screenshots/` — превью для компьютера и телефона
 
-Шрифты Oranienbaum и Golos Text (Google Fonts). Вёрстка адаптивная, работает от 360 px.
+Шрифт Montserrat (Google Fonts). Вёрстка адаптивная, работает от 360 px.
